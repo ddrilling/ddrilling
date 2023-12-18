@@ -19,8 +19,8 @@ Here are some ideas to get you started:
     <a href = "https://www.linkedin.com/in/dayton-drilling">
         <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn Badge"/>
     </a>
-    <a href = "https://www.facebook.com/dayton.drilling">
-        <img src = "https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook badge"/>
+    <a href = "https://twitter.com/whosyababydaddy">
+        <img src = "https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt = "Twitter Badge"/>
     </a>
 </div>
 <!-- add badges for programming languages use github/devicons
