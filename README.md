@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src = "https://media0.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width = "100"/>
 </div>
 
-<div id = "badges">
+<div id = "badges" align = "center">
     <a href = "https://www.linkedin.com/in/dayton-drilling">
         <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn Badge"/>
     </a>
