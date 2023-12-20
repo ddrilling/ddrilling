@@ -48,11 +48,6 @@ I am a recent computer science graduate :mortar_board: from the US.
     <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title = "Git" width = "40" height = "40"/>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title = "Vscode" width = "40" height = "40"/>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title = "Vs" width = "40" height = "40"/>
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title = "Arduino" width = "40" height = "40"/>
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title = "Jenkins" width = "40" height = "40"/>
 </div>
-
-<!-- add badges for programming languages use github/devicons also add section headings using markdown
-<div id = "languages">
-    <a>  
-    </a>
-</div>
--->
