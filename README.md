@@ -2,7 +2,7 @@
 
 
 <div id="gif" align="center">
-    <img src = "https://tenor.com/search/toothless-stickers" width = "100"/>
+    <img src = "https://media.tenor.com/2l4-h42qnmcAAAAi/toothless-dancing-toothless.gif" width = "100"/>
 </div>
 
 <div id = "badges" align = "center">
