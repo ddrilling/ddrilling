@@ -20,7 +20,7 @@
 
 I am a recent computer science graduate :mortar_board: from the US.
 
-- :computer: In my free time, I enjoy solving problems on leetcode and exploring GitHub.<img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title = "Git" width = "20" height = "20"/>
+- :computer: In my free time, I improve on and make new projects, and explore GitHub.<img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title = "Git" width = "20" height = "20"/>
 
 ---
 
