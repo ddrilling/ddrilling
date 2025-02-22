@@ -36,4 +36,6 @@ I am a recent computer science graduate :mortar_board: from the US.
     <img src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title = "Vs" width = "40" height = "40"/>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title = "Arduino" width = "40" height = "40"/>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title = "Jenkins" width = "40" height = "40"/>
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width = "40" height = "40"/>
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" width = "40" height = "40"/>
 </div>
